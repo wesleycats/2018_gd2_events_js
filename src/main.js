@@ -1,6 +1,6 @@
 import Enemy from './enemy';
 
-console.log('main file working ik pas iets aan');
+console.log('main file working');
 
 const endBoss = new Enemy();
 
